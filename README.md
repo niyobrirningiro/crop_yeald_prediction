@@ -1,5 +1,7 @@
 # crop_yeald_prediction
-machine_learning project  for pridicting  crop_yeald,
+machine_learning project  for pridicting  crop_yeald
+
+
 this project is for pridicting how much crop a farm will produce per unit of land.
 
 Organizations use this specific prediction to make critical, data-driven decisions before the harvest even happens
